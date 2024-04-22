@@ -14,3 +14,5 @@ Modules used in this project are following:
 Feel free to use, modify, and distribute this code as you wish without the need for giving credit.
 
 ## Results
+
+![result_1](https://github.com/sahelnasrullah/hadith-quotes-scraper/assets/23249051/16d4a2e4-c947-4b7a-81a7-3e0460dda962)
